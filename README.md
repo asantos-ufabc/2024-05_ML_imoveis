@@ -4,5 +4,4 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of 2024-05_ML_imoveis is to ...
-
+O objetivo do projeto 2024-05_ML_imoveis é aplicar para uma competição do kaggle.
